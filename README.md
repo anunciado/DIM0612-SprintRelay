@@ -18,11 +18,11 @@ There are two programs in this project. The sprintRelay.go file will simulate a 
 * Compile the IDE (GoLand IDE):
 1. Just open the IDE.
 2. Import the files in a project.
-3. After, click Ctrl+Shift_F10 to run the project.
+3. After, click Ctrl+Shift+F10 to run the project.
 4. From this it only interacts with the system.
 
 * Compile by terminal:
-1. Enter the following command to run the project:
+1. Enter the following command to run the files of the project:
 ```
 $ go run sprintRelayExtra.go
 ```
