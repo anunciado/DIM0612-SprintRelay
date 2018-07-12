@@ -38,7 +38,7 @@ $ go run sprintRelayExtra.go
 ### Project Advisor: 
 * **Everton Ranielly de Sousa Cavalcante ([everton@dimap.ufrn.br](mailto:everton@dimap.ufrn.br))** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/cruxiu/DIM0612-SprintRelay/contributors) who participated in this project.
 
 ## License
 
